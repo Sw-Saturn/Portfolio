@@ -3,4 +3,9 @@
 	url = https://github.com/sethmacleod/dimension.git
 [submodule "public"]
 	path = public
-	url = https://github.com/Sw-Saturn/Sw-Saturn.github.io.git
+	url = https://github.com/Sw-Saturn/Sw-Saturn.github.io
+	branch = master
+[submodule "Sw-Saturn.github.io"]
+	path = Sw-Saturn.github.io
+	url = https://github.com/Sw-Saturn/Sw-Saturn.github.io
+	branch = master
