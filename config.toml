@@ -1,7 +1,7 @@
 baseURL = "https://sw-saturn.github.io/"
 theme = "dimension"
 canonifyurls = true
-languageCode = "ja"
+languageCode = "en-us"
 title = "Portfolio"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
