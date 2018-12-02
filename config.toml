@@ -1,4 +1,4 @@
-baseURL = "https://sw-saturn.github.io/"
+baseURL = "https://Sw-Saturn.github.io/"
 theme = "dimension"
 canonifyurls = true
 languageCode = "en-us"
