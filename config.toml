@@ -6,6 +6,7 @@ title = "Portfolio"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+publishDir = "docs"
 
 [params]
   description = '<!--[-->A portfolio of Kanta Demizu.<!--]--><br />
