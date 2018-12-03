@@ -4,6 +4,7 @@ theme = "resume"
 canonifyurls = true
 languageCode = "en-us"
 title = "Kanta Demizu"
+hasCJKLanguage = true
 
 [params]
   firstName = "Kanta"
@@ -13,15 +14,15 @@ title = "Kanta Demizu"
   contactNote = "Dev Tools Engineer" #used in QR code only
   profileImage = "img/me.jpg"
   email = "e8222@g.maizuru-ct.ac.jp"
-  description = "NIT.Maizuru College 4E"
+  description = 'NIT.Maizuru College 4E'
   favicon = "favicon.ico"
   # what sections to display.  Setting to false disables navigation and section.
   showSkills = true
-  showProjects = false
+  showProjects = true
   showOpenSource = false
   showPublications = false
-  showExperience = false
-  showEducation = false
+  showExperience = true
+  showEducation = true
   showQr = false
 
 [[params.handles]]

@@ -4,7 +4,7 @@
         "_skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
     },{
         "grouping":"Languages, Operating Systems & Tools",
-        "skills":["Python","Swift","git","linux","zsh","Vim"]
+        "skills":["Python","Swift","git","linux","zsh","Vim","Raspberry Pi","macOS"]
     },
     {
         "grouping":"Platform Development",
