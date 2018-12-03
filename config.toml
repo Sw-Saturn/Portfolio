@@ -14,7 +14,7 @@ hasCJKLanguage = true
   contactNote = "Dev Tools Engineer" #used in QR code only
   profileImage = "img/me.jpg"
   email = "e8222@g.maizuru-ct.ac.jp"
-  description = 'NIT.Maizuru College 4E'
+  description = 'NIT.Maizuru College Electrical and Computer Enginnering 4th year'
   favicon = "favicon.ico"
   # what sections to display.  Setting to false disables navigation and section.
   showSkills = true

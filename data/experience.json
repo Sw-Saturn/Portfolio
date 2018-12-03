@@ -1,8 +1,20 @@
 [
     {
-        "_role":"Developer",
-        "_company":"Previous Company Inc.",
-        "_summary":"Implemented continuous devops pipelines automationing",
-        "_range":"February 2015 - March 2014"
+        "role":"第26回全国高専プロコン 長野大会 自由部門",
+        "company":"Familiar Map",
+        "summary":"データベース接続部分を担当",
+        "range":"October 2015"
+    },
+    {
+        "role":"第28回全国高専プロコン 大島大会 自由部門",
+        "company":"TRY 聴音羽 -聴覚障がい者会話支援システム- (ブロードリーフ企業賞受賞)",
+        "summary":"Androidアプリケーション作成，Firebaseを使用したチャット画面のUI作成，音声合成・認識APIの実装を担当",
+        "range":"October 2017"
+    },
+    {
+        "role":"第29回全国高専プロコン 阿南大会 課題部門",
+        "company":"WelICing -ICTと「歩く」運動促進システム- (NICT賞受賞，起業家甲子園挑戦権獲得)",
+        "summary":"データベースサーバー構築，デバイス制御・通信，systemdによるプロセス管理を担当",
+        "range":"October 2018"
     }
 ]
