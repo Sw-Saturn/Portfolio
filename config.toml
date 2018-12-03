@@ -1,46 +1,47 @@
 baseURL = "https://sw-saturn.github.io/"
-theme = "dimension"
+# theme = "dimension"
+theme = "resume"
 canonifyurls = true
 languageCode = "en-us"
-title = "Portfolio"
-defaultContentLanguage = "en"
-enableRobotsTXT = true
-disableKinds=["RSS"]
+title = "Kanta Demizu"
 
 [params]
-  description = '<!--[-->A portfolio of Kanta Demizu.<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->
-<ul class="icons">
-	<li><a href="https://twitter.com/Sw_Saturn" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-	<li><a href="https://www.facebook.com/SwSaturn" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-	<li><a href="https://www.instagram.com/12sw_saturn" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-	<li><a href="https://github.com/Sw-Saturn" class="icon fa-github"><span class="label">Github</span></a></li>
-</ul>'
-  logo = "fa-diamond"
-  copyright = "Untitled"
+  firstName = "Kanta"
+  lastName = "Demizu"
+  address = "Kyoto, Japan"
+  phone = "+81-80-8342-4391"
+  contactNote = "Dev Tools Engineer" #used in QR code only
+  profileImage = "img/me.jpg"
+  email = "e8222@g.maizuru-ct.ac.jp"
+  description = "NIT.Maizuru College 4E"
+  favicon = "favicon.ico"
+  # what sections to display.  Setting to false disables navigation and section.
+  showSkills = true
+  showProjects = false
+  showOpenSource = false
+  showPublications = false
+  showExperience = false
+  showEducation = false
+  showQr = false
 
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "https://twitter.com/Sw_Saturn"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/SwSaturn"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "https://www.instagram.com/12sw_saturn/"
-
-[[params.social]]
-  medium = "github"
+[[params.handles]]
+  name = "GitHub"
   icon = "github"
   link = "https://github.com/Sw-Saturn"
 
-[languages]
-[languages.en]
-languageName = "English"
-weight = 1
+[[params.handles]]
+  name = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/Sw_Saturn"
+
+[[params.handles]]
+  name = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/SwSaturn"
+
+[[params.handles]]
+  name = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/12sw_saturn/"
+
 

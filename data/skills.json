@@ -1,0 +1,19 @@
+[
+    {
+        "_grouping":"Architecture",
+        "_skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+    },{
+        "grouping":"Languages, Operating Systems & Tools",
+        "skills":["Python","Swift","git","linux","zsh","Vim"]
+    },
+    {
+        "grouping":"Platform Development",
+        "skills":[ "NGINX","MySQL","Wordpress"]
+    }
+    ,{
+      "grouping":"Containers & Cloud",
+        "skills":[
+            {"name":"Docker","link":"https://docker.com"}
+        ]
+    }
+  ]
