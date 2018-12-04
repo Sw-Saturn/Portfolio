@@ -1,15 +1,39 @@
 [
     {
+        "role":"Programmer's Community",
+        "company":"",
+        "summary":"元々コンピュータが好きでプログラムに興味があったため入部．C++を学習し始める",
+        "range":"April 2015"
+    },
+    {
         "role":"第26回全国高専プロコン 長野大会 自由部門",
         "company":"Familiar Map",
         "summary":"データベース接続部分を担当",
         "range":"October 2015"
     },
     {
+        "role":"Programmer's Community",
+        "company":"副部長就任",
+        "summary":"部のブログ運営を開始",
+        "range":"November 2016"
+    },
+    {
         "role":"第28回全国高専プロコン 大島大会 自由部門",
         "company":"TRY 聴音羽 -聴覚障がい者会話支援システム- (ブロードリーフ企業賞受賞)",
         "summary":"Androidアプリケーション作成，Firebaseを使用したチャット画面のUI作成，音声合成・認識APIの実装を担当",
         "range":"October 2017"
+    },
+    {
+        "role":"Programmer's Community",
+        "company":"部長就任",
+        "summary":"チームでの開発を積極的に進める",
+        "range":"November 2017"
+    },
+    {
+        "role":"HackU 2018 TOKYO",
+        "company":"しらゆき姫",
+        "summary":"画像処理，音声認識を担当",
+        "range":"August 2018"
     },
     {
         "role":"第29回全国高専プロコン 阿南大会 課題部門",
