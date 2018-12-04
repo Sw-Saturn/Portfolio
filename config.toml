@@ -47,5 +47,5 @@ hasCJKLanguage = true
 
 [[params.handles]]
   name = "Blog"
-  icon = "pen-square"
+  icon = "blogger"
   link = "https://sw-saturn.github.io/blog"
