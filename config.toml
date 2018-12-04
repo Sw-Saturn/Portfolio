@@ -48,4 +48,4 @@ hasCJKLanguage = true
 [[params.handles]]
   name = "Blog"
   icon = "blogger"
-  link = "https://sw-saturn.github.io/Blog"
+  link = "https://sw-saturn.github.io/blog"
