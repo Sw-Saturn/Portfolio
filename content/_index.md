@@ -8,4 +8,5 @@ outputs:
 - rss
 - json
 ---
-<p>NIT.Maizuru College Electrical and Computer Engineering 4th year</p>
+<p>NIT.Maizuru College Electrical and Computer Engineering 4th year<br/>
+Programmer's Community Manager</p>
