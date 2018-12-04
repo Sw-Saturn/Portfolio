@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Python","OpenCV","Face++","VoiceRecognition"],
     "fact":"Reduce page load time from minutes to instantaneous.",
-    "weight":"80",
+    "weight":"40",
     "sitemap": {"priority" : "0.2"}
 }
 

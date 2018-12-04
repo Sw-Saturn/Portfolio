@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Swift2"],
     "fact":"Reduce page load time from minutes to instantaneous.",
-    "weight":"80",
+    "weight":"90",
     "sitemap": {"priority" : "0.2"}
 }
 

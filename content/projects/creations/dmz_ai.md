@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Server","SQLite","Python","MeCab"],
     "fact":"Reduce page load time from minutes to instantaneous.",
-    "weight":"80",
+    "weight":"20",
     "sitemap": {"priority" : "0.2"}
 }
 

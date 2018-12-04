@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Python","Sakura.io","JSON","RaspberryPi","MySQL"],
     "fact":"Reduce page load time from minutes to instantaneous.",
-    "weight":"100",
+    "weight":"10",
     "sitemap": {"priority" : "0.8"}
 }
 

@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Android","Firebase","Java","VoiceRecognition"],
     "fact":"Reduce page load time from minutes to instantaneous.",
-    "weight":"80",
+    "weight":"30",
     "sitemap": {"priority" : "0.2"}
 }
 
