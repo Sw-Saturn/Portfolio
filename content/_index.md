@@ -8,7 +8,7 @@ outputs:
 - rss
 - json
 ---
-<p>NIT.Maizuru College Electrical and Computer Engineering 4th year<br/>
+<p>舞鶴工業高等専門学校 電気情報工学科 4年<br/>
 Programmer's Community Manager<br /> Icon by <a href=https://twitter.com/hsm_hx>@hsm_hx</a>
 
 <br /><br/>
