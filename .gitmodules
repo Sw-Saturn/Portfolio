@@ -5,10 +5,6 @@
 	path = public
 	url = https://github.com/Sw-Saturn/Sw-Saturn.github.io
 	branch = master
-[submodule "Sw-Saturn.github.io"]
-	path = Sw-Saturn.github.io
-	url = https://github.com/Sw-Saturn/Sw-Saturn.github.io
-	branch = master
 [submodule "themes/hugo-resume"]
 	path = themes/hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume
