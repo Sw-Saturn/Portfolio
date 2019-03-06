@@ -2,7 +2,7 @@ baseURL = "https://sw-saturn.github.io/"
 # theme = "dimension"
 theme = "hugo-resume"
 canonifyurls = true
-languageCode = "ja-jp"
+languageCode = "en-us"
 title = "Kanta Demizu"
 hasCJKLanguage = true
 
