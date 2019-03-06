@@ -1,20 +1,20 @@
 baseURL = "https://sw-saturn.github.io/"
 # theme = "dimension"
-theme = "resume"
+theme = "hugo-resume"
 canonifyurls = true
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "Kanta Demizu"
 hasCJKLanguage = true
 
 [params]
   firstName = "Kanta"
   lastName = "Demizu"
-  address = "Kyoto, Japan"
+  address = "a.k.a. でみ from KYOTO, JAPAN"
   phone = "+81-80-8342-4391"
   contactNote = "Dev Tools Engineer" #used in QR code only
-  profileImage = "img/me.jpg"
+  profileImage = "img/icon.png"
   email = "e8222@g.maizuru-ct.ac.jp"
-  description = 'NIT.Maizuru College Electrical and Computer Enginnering 4th year'
+  description = 'NIT.Maizuru College Electrical and Computer Enginnering 4th year Icon by @hsm_hx'
   favicon = "favicon.ico"
   # what sections to display.  Setting to false disables navigation and section.
   showSkills = true
