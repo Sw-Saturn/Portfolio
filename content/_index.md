@@ -15,6 +15,6 @@ Programmer's Community Manager<br /> Icon by <a href=https://twitter.com/hsm_hx>
 <br/>趣味: 限界旅行、写真、DDR
 
 <br /><br/>
-ネイティブアプリケーション開発、PythonのDjangoフレームワークを用いたWebアプリケーション開発をしています。
+ネイティブアプリケーション開発、Flutterを用いたモバイルアプリケーション開発、PythonのDjangoフレームワークを用いたWebアプリケーション開発をしています。
 
 </p>

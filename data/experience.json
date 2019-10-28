@@ -1,44 +1,62 @@
 [
-    {
-        "role":"Programmer's Community",
-        "company":"",
-        "summary":"元々コンピュータが好きでプログラムに興味があったため入部．C++を学習し始める",
-        "range":"April 2015"
-    },
-    {
-        "role":"第26回全国高専プロコン 長野大会 自由部門",
-        "company":"Familiar Map",
-        "summary":"データベース接続部分を担当",
-        "range":"October 2015"
-    },
-    {
-        "role":"Programmer's Community",
-        "company":"副部長就任",
-        "summary":"部のブログ運営を開始",
-        "range":"November 2016"
-    },
-    {
-        "role":"第28回全国高専プロコン 大島大会 自由部門",
-        "company":"TRY 聴音羽 -聴覚障がい者会話支援システム- (ブロードリーフ企業賞受賞)",
-        "summary":"Androidアプリケーション作成，Firebaseを使用したチャット画面のUI作成，音声合成・認識APIの実装を担当",
-        "range":"October 2017"
-    },
-    {
-        "role":"Programmer's Community",
-        "company":"部長就任",
-        "summary":"チームでの開発を積極的に行い，よりアットホームな環境づくりを進めた",
-        "range":"November 2017"
-    },
-    {
-        "role":"HackU 2018 TOKYO",
-        "company":"しらゆき姫",
-        "summary":"画像処理，音声認識を担当",
-        "range":"August 2018"
-    },
-    {
-        "role":"第29回全国高専プロコン 阿南大会 課題部門",
-        "company":"WelICing -ICTと「歩く」運動促進システム- (NICT賞受賞，起業家甲子園挑戦権獲得)",
-        "summary":"データベースサーバー構築，デバイス制御・通信，systemdによるプロセス管理を担当",
-        "range":"October 2018"
-    }
+  {
+    "role":"Programmer's Community",
+    "company":"",
+    "summary":"元々コンピュータが好きでプログラムに興味があったため入部．C++を学習し始める",
+    "range":"April 2015"
+  },
+  {
+    "role":"第26回全国高専プロコン 長野大会 自由部門",
+    "company":"Familiar Map",
+    "summary":"データベース接続部分を担当",
+    "range":"October 2015"
+  },
+  {
+    "role":"Programmer's Community",
+    "company":"副部長就任",
+    "summary":"部のブログ運営を開始",
+    "range":"November 2016"
+  },
+  {
+    "role":"第28回全国高専プロコン 大島大会 自由部門",
+    "company":"TRY 聴音羽 -聴覚障がい者会話支援システム- (ブロードリーフ企業賞受賞)",
+    "summary":"Androidアプリケーション作成，Firebaseを使用したチャット画面のUI作成，音声合成・認識APIの実装を担当",
+    "range":"October 2017"
+  },
+  {
+    "role":"Programmer's Community",
+    "company":"部長就任",
+    "summary":"チームでの開発を積極的に行い，よりアットホームな環境づくりを進めた",
+    "range":"November 2017"
+  },
+  {
+    "role":"HackU 2018 TOKYO",
+    "company":"しらゆき姫",
+    "summary":"画像処理，音声認識を担当",
+    "range":"August 2018"
+  },
+  {
+    "role":"第29回全国高専プロコン 阿南大会 課題部門",
+    "company":"WelICing -ICTと「歩く」運動促進システム- (NICT賞受賞，起業家甲子園挑戦権獲得)",
+    "summary":"データベースサーバー構築，デバイス制御・通信，systemdによるプロセス管理を担当",
+    "range":"October 2018"
+  },
+  {
+    "role":"平成30年度 起業家甲子園",
+    "company":"WelICing -ICTと「歩く」運動促進システム- (マイネット賞受賞)",
+    "summary":"sakura.ioを使用したサーバーとの通信への対応を担当",
+    "range":"March 2019"
+  },
+  {
+    "role":"高専ワイヤレスIoT技術実証コンテスト - 採択",
+    "company":"あやなす -黒谷和紙×IoTによる綾なすインテリア-",
+    "summary":"回路設計・開発担当",
+    "range":"July 2019 - March 2020"
+  },
+  {
+    "role":"jig.jp インターンシップ",
+    "company":"めしめーと - チーム名「npm派」",
+    "summary":"バックエンド、インフラ部分の担当",
+    "range":"August 2019 - September 2019"
+   }
 ]

@@ -4,7 +4,7 @@
         "_skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
     },{
         "grouping":"Languages, Operating Systems & Tools",
-        "skills":["Python","Swift","git","linux","zsh","Vim","Raspberry Pi","macOS","Android"]
+        "skills":["Python","Go","Swift","Flutter","Dart","JavaScript","git","linux","zsh","Vim","Arduino","macOS","Android"]
     },
     {
         "grouping":"Platform Development",
@@ -14,7 +14,8 @@
       "grouping":"Containers & Cloud",
         "skills":[
             {"name":"Docker","link":"https://docker.com"},
-            {"name":"Firebase","link":"https://firebase.google.com"}
+            {"name":"Firebase","link":"https://firebase.google.com"},
+            {"name": "Microsoft Azure","link": "https://azure.microsoft.com/"}
         ]
     }
   ]
