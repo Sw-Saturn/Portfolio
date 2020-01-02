@@ -1,51 +1,7 @@
-baseURL = "https://sw-saturn.github.io/"
-# theme = "dimension"
-theme = "hugo-resume"
-canonifyurls = true
-languageCode = "en-us"
-title = "Kanta Demizu"
-hasCJKLanguage = true
-
-[params]
-    firstName = "Kanta"
-    lastName = "Demizu"
-    address = "a.k.a. でみ from KYOTO, JAPAN"
-    phone = "+81-80-8342-4391"
-    contactNote = "Dev Tools Engineer" #used in QR code only
-    profileImage = "img/icon.png"
-    email = "e8222@g.maizuru-ct.ac.jp"
-    description = 'NIT.Maizuru College Electrical and Computer Enginnering 4th year Icon by @hsm_hx'
-    favicon = "favicon.ico"
-    # what sections to display.  Setting to false disables navigation and section.
-    showSkills = true
-    showProjects = true
-    showOpenSource = false
-    showPublications = false
-    showExperience = true
-    showEducation = true
-    showQr = false
-
-[[params.handles]]
-    name = "GitHub"
-    icon = "github"
-    link = "https://github.com/Sw-Saturn"
-
-[[params.handles]]
-    name = "Twitter"
-    icon = "twitter"
-    link = "https://twitter.com/Sw_Saturn"
-
-[[params.handles]]
-    name = "Facebook"
-    icon = "facebook"
-    link = "https://www.facebook.com/SwSaturn"
-
-[[params.handles]]
-    name = "Instagram"
-    icon = "instagram"
-    link = "https://www.instagram.com/12sw_saturn/"
-
-[[params.handles]]
-    name = "Blog"
-    icon = "blogger"
-    link = "https://sw-saturn.github.io/blog"
+# Academic Website Builder
+# https://sourcethemes.com/academic/
+#
+# The presence of this file is for compatibility with Blogdown and Forestry.
+# If you are not using those tools, this file may be deleted.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
