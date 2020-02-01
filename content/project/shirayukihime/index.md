@@ -26,7 +26,7 @@ image:
 
 url_code: "https://github.com/Sw-Saturn/ShirayukiHime"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://speakerdeck.com/12swsaturn/hacku2018tokyo-odatejing"
 url_video: ""
 
 # Slides (optional).
@@ -36,6 +36,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+{{< speakerdeck b06f41dc977a4b459fa899762e3a2ad2 >}}
 
 HackU2018 TOKYOにて発表した作品．
 

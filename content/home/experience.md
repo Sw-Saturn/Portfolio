@@ -71,4 +71,13 @@ date_format = "Jan 2006"
   date_end = "2019-03-11"
   description = """"""
 
+[[experience]]
+  title = "あやなす -黒谷和紙×IoTによる綾なすインテリア-"
+  company = "2019年度高専ワイヤレスIoT技術実証コンテスト"
+  company_url = "https://kosen-iot-contest.jp/index.html"
+  location = "Tokyo, Tokyo"
+  date_start = "2019-04-05"
+  date_end = ""
+  description = """伝統工芸品の後継者不足が課題となるなか、伝統文化を伝える場づくりとして、黒谷和紙とIoT技術をかけ合わせたIoTインテリア: 「あやなす」を試作し実証する。"""
+
 +++
