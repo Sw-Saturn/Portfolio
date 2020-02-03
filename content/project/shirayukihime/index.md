@@ -14,7 +14,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -37,7 +37,7 @@ url_video: ""
 slides: ""
 ---
 
-{{< speakerdeck b06f41dc977a4b459fa899762e3a2ad2 >}}
+{{< speakerdeck b06f41dc977a4b459fa899762e3a2ad2 1.77777777777778 >}}
 
 HackU2018 TOKYOにて発表した作品．
 
