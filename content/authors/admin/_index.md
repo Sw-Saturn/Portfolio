@@ -54,6 +54,9 @@ social:
 - icon: blogger
   icon_pack: fab
   link: https://sw-saturn.github.io/blog
+- icon: speaker-deck
+  icon_pack: fab
+  link: https://speakerdeck.com/12swsaturn
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -73,6 +76,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
 a.k.a. でみ
 
 京都府京都市在住
