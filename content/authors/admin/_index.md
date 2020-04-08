@@ -57,6 +57,9 @@ social:
 - icon: speaker-deck
   icon_pack: fab
   link: https://speakerdeck.com/12swsaturn
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/swsaturn
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -86,6 +89,6 @@ a.k.a. でみ
 趣味: 旅行、写真、音ゲー
 
 Flutterでのモバイルアプリケーション開発とか、GolangでWebアプリケーションのバックエンド開発をしています。
-あとは研究でIoT絡みのプロジェクトを進めていたり。
+研究ではIoTデバイス作製や地域課題解決をしていたりします。
 
 Icon by [@V_Melville](https://twitter.com/V_Melville)
