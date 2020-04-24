@@ -37,12 +37,6 @@ subtitle = ""
   description = "Yarn, Vue.js, jQuery"
 
 [[feature]]
-  icon = "swift"
-  icon_pack = "fab"
-  name = "Swift"
-  description = "iOS Application"
-
-[[feature]]
   icon_path = "mysql.png"
   name = "SQL"
   description = "MySQL, MariaDB"
