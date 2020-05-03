@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 電気情報工学科 学生
+role: 舞鶴高専 電気情報工学科 学生
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.maizuru-ct.ac.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: as known as でみ
+bio: 夢は世界平和です
 
 interests:
 - Web Backend
@@ -53,7 +53,7 @@ social:
   link: https://www.instagram.com/12sw_saturn
 - icon: blogger
   icon_pack: fab
-  link: https://sw-saturn.github.io/blog
+  link: https://blog.sw-saturn.dev
 - icon: speaker-deck
   icon_pack: fab
   link: https://speakerdeck.com/12swsaturn
@@ -80,15 +80,24 @@ user_groups:
 - Visitors
 ---
 
-a.k.a. でみ
+## 居住地
 
-京都府京都市在住
+- 京都府京都市
 
-舞鶴工業高等専門学校 電気情報工学科 本科5年
+## 所属
 
-趣味: 旅行、写真、音ゲー
+- 舞鶴工業高等専門学校 電気情報工学科 本科5年
 
+## 趣味
+
+- 旅行: 非日常を体感することが好きです。全国制覇まであともう少し。
+- 写真: 旅行の記録用に始めました。
+- 音楽ゲーム: BEMANI楽曲にハマって始めました。
+
+
+## ひとこと
 Flutterでのモバイルアプリケーション開発とか、GolangでWebアプリケーションのバックエンド開発をしています。
 研究ではIoTデバイス作製や地域課題解決をしていたりします。
 
-Icon by [@V_Melville](https://twitter.com/V_Melville)
+---
+*Icon by [@V_Melville](https://twitter.com/V_Melville)*

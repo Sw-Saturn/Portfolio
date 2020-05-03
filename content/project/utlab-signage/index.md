@@ -1,8 +1,8 @@
 ---
-title: "halloween2019"
-summary: "世界で最もシンプルなハロウィンサーバ"
+title: "UtLab-Signage"
+summary: "シンプルなデジタルサイネージ"
 authors: []
-tags: ["Golang"]
+tags: ["Vue.js","Bulma","Web"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -24,7 +24,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/Sw-Saturn/halloween2019"
+url_code: "https://github.com/Sw-Saturn/utlab-signage"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -37,8 +37,10 @@ url_video: ""
 slides: ""
 ---
 
-ハロウィンのネタとして作った、世界で一番シンプルかつハロウィン要素を持ったサーバーアプリケーションです。
+シンプルで視認性の良いデジタルサイネージ。
+美しい背景に現在時刻・天気・ニュースが表示されます。
 
 ##### 構成
 
-- サーバ: Golang
+- JavaScriptフレームワーク: [Vue.js](https://vuejs.org)
+- CSSフレームワーク: [Bulma](https://bulma.io)

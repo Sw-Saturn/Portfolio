@@ -42,7 +42,9 @@ date_format = "Jan 2006"
   location = "Shunan, Yamaguchi"
   date_start = "2017-10-08"
   date_end = "2017-10-09"
-  description = """"""
+  description = """
+  TRY 聴音羽 -聴覚障がい者会話支援システム-
+  """
 
 [[experience]]
   title = "出場"
@@ -54,7 +56,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "NICT賞 受賞"
+  title = "NICT賞 --- WelICing -ICTと「歩く」運動促進システム-"
   company = "第29回 全国高専プログラミングコンテスト 阿南大会 課題部門"
   company_url = "http://www.procon.gr.jp/?page_id=64541"
   location = "Tokushima, Tokushima"
@@ -63,21 +65,24 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "マイネット賞 受賞"
+  title = "マイネット賞 --- WelICing -ICTと「歩く」運動促進システム-"
   company = "平成30年度起業家甲子園"
   company_url = "https://www.nict.go.jp/venture/koshien2018_report.html"
   location = "Tokyo, Tokyo"
   date_start = "2019-03-11"
   date_end = "2019-03-11"
-  description = """"""
+  description = """
+  チェックポイント型ウォーキングWellCingを用いた自身の健康及び歩行空間作りによる地域活性化
+  """
 
 [[experience]]
-  title = "あやなす -黒谷和紙×IoTによる綾なすインテリア-"
+  title = "デジタル伝統工芸大賞 --- あやなす -黒谷和紙×IoTによる綾なすインテリア-"
   company = "2019年度高専ワイヤレスIoT技術実証コンテスト"
-  company_url = "https://kosen-iot-contest.jp/index.html"
+  company_url = "https://kosen-iot-contest.jp/2019_hyousyou/index.html"
   location = "Tokyo, Tokyo"
   date_start = "2019-04-05"
-  date_end = ""
-  description = """伝統工芸品の後継者不足が課題となるなか、伝統文化を伝える場づくりとして、黒谷和紙とIoT技術をかけ合わせたIoTインテリア: 「あやなす」を試作し実証する。"""
+  date_end = "2020-05-01"
+  description = """
+  伝統工芸品の後継者不足が課題となるなか、伝統文化を伝える場づくりとして、黒谷和紙とIoT技術をかけ合わせたIoTインテリア: 「あやなす」を試作し実証する。"""
 
 +++
