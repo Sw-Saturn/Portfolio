@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kanta Demizu
+title: でみ
 
 # Username (this should match the folder name)
 authors:
@@ -92,7 +92,7 @@ user_groups:
 
 - 旅行: 非日常を体感することが好きです。全国制覇まであともう少し。
 - 写真: 旅行の記録用に始めました。
-- 音楽ゲーム: BEMANI楽曲にハマって始めました。
+- 登山: 自然はすごい。
 
 ## ひとこと
 Flutterでのモバイルアプリケーション開発とか、GolangでWebアプリケーションのバックエンド開発をしています。
