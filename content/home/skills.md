@@ -18,11 +18,6 @@ subtitle = ""
   icon_path = "gopher.png"
   name = "Golang"
   description = "Gin, Gorm"
-
-[[feature]]
-  icon_path = "logo_flutter_1080px_clr.png"
-  name = "Flutter, Dart"
-  description = "Mobile Application"
   
 [[feature]]
   icon = "python"

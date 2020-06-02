@@ -60,6 +60,9 @@ social:
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/swsaturn
+- icon: flickr
+  icon_pack: fab
+  link: https://www.flickr.com/people/166801669@N03/
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
