@@ -32,6 +32,12 @@ subtitle = ""
   description = "Yarn, Vue.js, jQuery"
 
 [[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "docker-compose, Kubernetes"
+
+[[feature]]
   icon_path = "mysql.png"
   name = "SQL"
   description = "MySQL, MariaDB"
@@ -51,6 +57,6 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "趣味"
+  description = "Luminar, Street, Nature"
 
 +++
