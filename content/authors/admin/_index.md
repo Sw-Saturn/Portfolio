@@ -54,6 +54,9 @@ social:
 - icon: blogger
   icon_pack: fab
   link: https://blog.sw-saturn.dev
+- icon: discord
+  icon_pack: fab
+  link: https://discordapp.com/users/385449156476665856
 - icon: speaker-deck
   icon_pack: fab
   link: https://speakerdeck.com/12swsaturn
@@ -63,6 +66,12 @@ social:
 - icon: flickr
   icon_pack: fab
   link: https://www.flickr.com/people/166801669@N03/
+- icon: soundcloud
+  icon_pack: fab
+  link: https://soundcloud.com/sw-saturn
+- icon: mixcloud
+  icon_pack: fab
+  link: https://www.mixcloud.com/Sw-Saturn/
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -93,9 +102,9 @@ user_groups:
 
 ## 趣味
 
-- 旅行: 非日常を体感することが好き。自分の「常識」をアップデートしよう。
-- 写真: 何気なく過ごしている、感動的な「一瞬」を切り取る。
-- 登山: まだ見た事のない景色を求めて。
+- 旅行: 非日常を体感したり、深夜に出歩くのが好きです。
+- 写真: ストリートスナップ、風景、テーブルフォトなどを撮っています。
+- ハードコア音楽: Hardstyle、Happy hardcore、UK Hardcoreなどのジャンルを聞くことが多いです。
 
 ## ひとこと
 

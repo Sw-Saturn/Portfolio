@@ -57,6 +57,6 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "Luminar, Street, Nature"
+  description = "Leica Q, Lightroom, Street, Nature"
 
 +++
