@@ -1,8 +1,8 @@
 ---
-title: "Class-bot"
-summary: "毎朝8時10分に当日の時間割を通知するBot"
+title: "Exify"
+summary: "画像のEXIF情報を素早くシェア"
 authors: []
-tags: ["Flask","Python","LINE","json"]
+tags: ["Golang", "Gin", "Bulma", "Web"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -12,19 +12,17 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "/img/linebot.png"
+  caption: ""
   focal_point: ""
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: 公開ページ
+    url: https://exify.sw-saturn.dev
 
-url_code: "https://github.com/Sw-Saturn/LINE-bot"
+url_code: "https://github.com/Sw-Saturn/Exify"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -37,15 +35,11 @@ url_video: ""
 slides: ""
 ---
 
-毎朝8時10分に当日の時間割を通知するBot．
-
-サーバー上に授業日程をjson形式で配置しており，現在はそれを読み出す形で動作している．
-
-将来的には，汎用性を持たせるため，データベースで情報を管理したいと思っている．
+撮影した美しい画像を EXIF 情報とともに素早くシェアしよう。
+シンプルなデザインで簡単に使えます。
 
 ##### 構成
 
-- プロセス管理:Systemd
-- データベース:MySQL
-- サーバー:さくらのVPSサーバー
-
+- フロントエンド: HTML + JavaScript(jQuery)
+- バックエンド: Golang + Gin
+- CSS フレームワーク: [Bulma](https://bulma.io)

@@ -2,7 +2,7 @@
 title: "UtLab-Signage"
 summary: "シンプルなデジタルサイネージ"
 authors: []
-tags: ["Vue.js","Bulma","Web"]
+tags: ["Vue.js", "Bulma", "Web"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -18,11 +18,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: 公開ページ
+    url: https://sw-saturn.dev/utlab-signage/
 
 url_code: "https://github.com/Sw-Saturn/utlab-signage"
 url_pdf: ""
@@ -42,5 +40,5 @@ slides: ""
 
 ##### 構成
 
-- JavaScriptフレームワーク: [Vue.js](https://vuejs.org)
-- CSSフレームワーク: [Bulma](https://bulma.io)
+- JavaScript フレームワーク: [Vue.js](https://vuejs.org)
+- CSS フレームワーク: [Bulma](https://bulma.io)
