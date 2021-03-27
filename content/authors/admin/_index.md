@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 舞鶴高専 電気情報工学科 学生
+role: Cloud Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: NIT. Maizuru College
-    url: "http://www.maizuru-ct.ac.jp"
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 夢は世界平和です
@@ -29,10 +29,10 @@ education:
   courses:
     - course: 電気情報工学科
       institution: 舞鶴工業高等専門学校
-      year: 2015
+      year: 2015 - 2021
     - course: Teaching Assistant
       institution: Dot Seminar.
-      year: 2019
+      year: 2019 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -92,19 +92,11 @@ user_groups:
   - Visitors
 ---
 
-## 居住地
-
-- 京都府京都市
-
-## 所属
-
-- 舞鶴工業高等専門学校 電気情報工学科 本科 5 年
-
 ## 趣味
 
 - 旅行: 非日常を体感したり、深夜に出歩くのが好きです。
 - 写真: ストリートスナップ、風景、テーブルフォトなどを撮っています。
-- ハードコア音楽: Hardstyle、Happy hardcore、UK Hardcore などのジャンルを聞くことが多いです。
+- DJ: Hardstyle、Happy hardcore、UK Hardcore などのジャンルをおうちでミックスしています。
 
 ## ひとこと
 

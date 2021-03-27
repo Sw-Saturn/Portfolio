@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "入学"
+  title = "電気情報工学科"
   company = "舞鶴工業高等専門学校"
   company_url = "http://www.maizuru-ct.ac.jp"
   location = "Maizuru, Kyoto"
   date_start = "2015-04-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """"""
 
 [[experience]]

@@ -2,7 +2,7 @@
 title: "TRY 聴音羽 -聴覚障がい者会話支援システム-"
 summary: "聴覚障害者と健聴者の自然に会話を支援するAndroidアプリケーション"
 authors: []
-tags: ["Android","Firebase","Java","VoiceRecognition"]
+tags: ["Android", "Firebase", "Java", "VoiceRecognition"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -36,11 +36,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 {{< speakerdeck e33a67d3db07468db72d22867b4d6dad 1.77777777777778 >}}
 
-第28回全国高専プロコン自由部門にて発表した作品．
+第 28 回全国高専プロコン自由部門にて発表した作品．
 
-聴覚障害者と健聴者の会話を支援するAndroidアプリケーション．
+聴覚障害者と健聴者の会話を支援する Android アプリケーション．
 
 聴覚障害者にスマートフォンを持っていただき，チャットベースで会話を行う．
 
@@ -50,8 +51,8 @@ slides: ""
 
 ##### 構成
 
-- 音声認識:Google Speech Recognizer
-- 音声合成:VoiceText Web API
-- チャットサーバー:Firebase
+- 音声認識: Google Speech Recognizer
+-  音声合成: VoiceText Web API
+- チャットサーバー: Firebase
 
 {{< figure src="/img/tryus.png" width="40%" >}}

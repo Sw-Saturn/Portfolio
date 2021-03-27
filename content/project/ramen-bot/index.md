@@ -2,7 +2,7 @@
 title: "Ramen-Bot"
 summary: "らーめんたべたいBot"
 authors: []
-tags: ["Azure","Docker","Go","Gurunavi-api","LINE","json"]
+tags: ["Azure", "Docker", "Go", "Gurunavi-api", "LINE", "json"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -37,14 +37,14 @@ url_video: ""
 slides: ""
 ---
 
-LINEで位置情報を送信すると近くのラーメン屋を返してくれるBot。
+LINE で位置情報を送信すると近くのラーメン屋を返してくれる Bot。
 
 ##### 構成
 
 - サーバー: Go
 - コンテナ: [https://hub.docker.com/r/swsaturn/ramen_bot](https://hub.docker.com/r/swsaturn/ramen_bot)
-- レストラン取得API: [ぐるなび Web Service - レストラン検索API](https://api.gnavi.co.jp/api/manual/restsearch/)
+- レストラン取得 API: [ぐるなび Web Service - レストラン検索 API](https://api.gnavi.co.jp/api/manual/restsearch/)
 - デプロイ先: Azure App Service
-- CIサービス: Azure DevOps Pipelines
+- CI サービス: Azure DevOps Pipelines
 
 {{< figure src="/img/ramen-bot.gif" width="40%" >}}

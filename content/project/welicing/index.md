@@ -2,7 +2,7 @@
 title: "WelICing"
 summary: "ICカードを用いて歩行の記録を取るシステム"
 authors: []
-tags: ["Python","Sakura.io","JSON","RaspberryPi","MySQL"]
+tags: ["Python", "Sakura.io", "JSON", "RaspberryPi", "MySQL"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -36,9 +36,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 {{< speakerdeck 1fa7b67efc064b8d88170a20d81e8964 1.33333333333333 >}}
 
-WelICing-ICTと「歩く」運動促進システム- は，ICカードを用いて歩行の記録をとるシステムです．
+WelICing-ICT と「歩く」運動促進システム- は，IC カードを用いて歩行の記録をとるシステムです．
 
 読み取り機を複数設置しておき，そのコースを歩いて頂き歩行記録をとります．
 

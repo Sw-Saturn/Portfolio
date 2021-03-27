@@ -2,7 +2,7 @@
 title: "Birthday Countdown"
 summary: "誕生日カウントダウンアプリ"
 authors: []
-tags: ["Flutter","Dart","Rapido"]
+tags: ["Flutter", "Dart", "Rapido"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -42,7 +42,7 @@ slides: ""
 ##### 構成
 
 - アプリケーションフレームワーク: Flutter
-- RADライブラリ: [Rapido](https://pub.dev/packages/rapido)
+- RAD ライブラリ: [Rapido](https://pub.dev/packages/rapido)
 
 ##### 参考
 

@@ -2,7 +2,7 @@
 title: "Translator-bot"
 summary: "外国語のテキストを送ると日本語に翻訳してくれるChatBot"
 authors: []
-tags: ["Azure","node","LINE","json"]
+tags: ["Azure", "node", "LINE", "json"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -37,10 +37,10 @@ url_video: ""
 slides: ""
 ---
 
-外国語のテキストを送信すると，日本語に翻訳して返信してくれるLINE Bot
+外国語のテキストを送信すると，日本語に翻訳して返信してくれる LINE Bot
 
 ##### 構成
 
 - サーバー: Azure Bot Service(node.js)
-- 翻訳API: Azure Translator Text API
+- 翻訳 API: Azure Translator Text API
 - デプロイ先: Azure App Service

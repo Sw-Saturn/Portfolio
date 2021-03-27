@@ -2,7 +2,7 @@
 title: "Familiar Map"
 summary: "舞鶴市のイベント情報をマップに表示するシステム"
 authors: []
-tags: ["GoogleMaps","MySQL","Apache","javascript","Ajax","PHP"]
+tags: ["GoogleMaps", "MySQL", "Apache", "javascript", "Ajax", "PHP"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -37,6 +37,6 @@ url_video: ""
 slides: ""
 ---
 
-第26回全国高専プロコン自由部門にて発表した作品．
+第 26 回全国高専プロコン自由部門にて発表した作品．
 
-舞鶴市のメール配信サービスをより分かりやすくするべく，GoogleMap上にピンを立ててイベント情報や犯罪情報，クマの目撃情報を表示するシステム．
+舞鶴市のメール配信サービスをより分かりやすくするべく，GoogleMap 上にピンを立ててイベント情報や犯罪情報，クマの目撃情報を表示するシステム．

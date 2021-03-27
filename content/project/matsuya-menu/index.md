@@ -2,7 +2,7 @@
 title: "Matsuya Menu"
 summary: "松屋のメニューを表示するためのアプリ"
 authors: []
-tags: ["Flutter","Dart","Matsuya-Web-API","iOS","Android"]
+tags: ["Flutter", "Dart", "Matsuya-Web-API", "iOS", "Android"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -37,9 +37,9 @@ url_video: ""
 slides: ""
 ---
 
-Flutterを使用して作成したモバイルアプリケーション．
+Flutter を使用して作成したモバイルアプリケーション．
 
 有名フードチェーンの松屋のメニューをリスト化して表示するアプリケーション．
-iOS，Androidの両OSに対応．
+iOS，Android の両 OS に対応．
 
 今後，ストアにリリース予定．

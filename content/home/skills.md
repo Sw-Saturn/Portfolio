@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon_path = "gopher.png"
+  icon_path = "go_logo_blue.svg"
   name = "Golang"
   description = "Gin, Gorm"
   
@@ -38,14 +38,20 @@ subtitle = ""
   description = "docker-compose, Kubernetes"
 
 [[feature]]
-  icon_path = "mysql.png"
-  name = "SQL"
-  description = "MySQL, MariaDB"
+  icon = "database"
+  icon_pack = "fas"
+  name = "DB"
+  description = "MySQL, MariaDB, MongoDB"
 
 [[feature]]
-  icon_path = "icons8-azure-480.png"
+  icon_path = "balena-icon.svg"
+  name = "Balena"
+  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
+
+[[feature]]
+  icon_path = "azure-1.svg"
   name = "Azure"
-  description = "DevOps, App Service, Cognitive Services"
+  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
 
 [[feature]]
   icon = "linux"

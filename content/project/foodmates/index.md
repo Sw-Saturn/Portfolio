@@ -2,7 +2,7 @@
 title: "めしめーと"
 summary: "美味しい料理を新発見するために、好みが近い人と繋がることができるサービス"
 authors: []
-tags: ["AWS","MySQL","Golang","Gin","GORM"]
+tags: ["AWS", "MySQL", "Golang", "Gin", "GORM"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -36,29 +36,28 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 {{< speakerdeck 1d807680b7bf42bbab3d909f79a7b377 1.77777777777778 >}}
 
-jig.jp学生インターンプログラム2019にて，4人1チームで制作したプロダクト。
+jig.jp 学生インターンプログラム 2019 にて，4 人 1 チームで制作したプロダクト。
 
 ・外食に行ってみたいが不安な人
 
 ・新しい料理を安心して食べに行きたい人
 
-これらの人をターゲットとし、SNSのような形で料理の名前、写真を投稿できるサービス。
+これらの人をターゲットとし、SNS のような形で料理の名前、写真を投稿できるサービス。
 
 ##### 構成
 
 - プロセス管理:Systemd
-- データベース:MySQL(サーバーからはGORMでアクセス)
+- データベース:MySQL(サーバーからは GORM でアクセス)
 - デプロイ先:AWS(EC2)
 - サーバー:Golang(Gin)
 
 #### クライアントサイド
 
-GitHubリポジトリ: [https://github.com/jigintern/Foodmates-client](https://github.com/jigintern/Foodmates-client)
+GitHub リポジトリ: [https://github.com/jigintern/Foodmates-client](https://github.com/jigintern/Foodmates-client)
 
 #### サーバーサイド
 
-GitHubリポジトリ: [https://github.com/jigintern/Foodmates-server](https://github.com/jigintern/Foodmates-server)
-
-
+GitHub リポジトリ: [https://github.com/jigintern/Foodmates-server](https://github.com/jigintern/Foodmates-server)

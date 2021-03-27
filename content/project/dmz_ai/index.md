@@ -2,7 +2,7 @@
 title: "dmz_ai"
 summary: "10分おきに自分の発言をベースにつぶやくBot"
 authors: []
-tags: ["Golang","Twitter","MeCab"]
+tags: ["Golang", "Twitter", "MeCab"]
 categories: []
 
 # Optional external URL for project (replaces project detail page).
@@ -37,13 +37,14 @@ url_video: ""
 slides: ""
 ---
 
-自分のTwitterアカウントの発言をベースにして発言させるbot
+自分の Twitter アカウントの発言を  ベースにして発言させる bot (現在停止中)
 
-Twitterの発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPIから投稿する．
+Twitter の発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPI から投稿する．
 
 ##### 構成
+
 - プロセス管理:Systemd
 - サーバー: Golang
-- サーバー:さくらのVPSサーバー
+- サーバー:さくらの VPS サーバー
 
 {{<dmz_ai>}}
