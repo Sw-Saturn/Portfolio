@@ -55,4 +55,4 @@ slides: ""
 -  音声合成: VoiceText Web API
 - チャットサーバー: Firebase
 
-{{< figure src="/img/tryus.png" width="40%" >}}
+{{< figure src="/img/tryus.webp" width="40%" >}}

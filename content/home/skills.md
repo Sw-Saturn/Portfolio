@@ -14,28 +14,16 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon_path = "go_logo_blue.svg"
-  name = "Golang"
-  description = "Gin, Gorm"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python3"
-  description = "Django, Flask, Tensorflow"
 
 [[feature]]
-  icon = "js-square"
-  icon_pack = "fab"
-  name = "JavaScript"
-  description = "Yarn, Vue.js, jQuery"
+  icon_path = "azure.webp"
+  name = "Azure"
+  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
 
 [[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-  description = "docker-compose, Kubernetes"
+  icon_path = "balena.webp"
+  name = "Balena"
+  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
 
 [[feature]]
   icon = "database"
@@ -44,14 +32,21 @@ subtitle = ""
   description = "MySQL, MariaDB, MongoDB"
 
 [[feature]]
-  icon_path = "balena-icon.svg"
-  name = "Balena"
-  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "docker-compose, Kubernetes"
 
 [[feature]]
-  icon_path = "azure-1.svg"
-  name = "Azure"
-  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
+  icon_path = "go_logo.webp"
+  name = "Golang"
+  description = "Gin, Gorm"
+
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "Yarn, Vue.js, jQuery"
 
 [[feature]]
   icon = "linux"
@@ -64,5 +59,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Photography"
   description = "Leica Q, Lightroom, Street, Nature"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python3"
+  description = "Django, Flask, Tensorflow"
 
 +++
