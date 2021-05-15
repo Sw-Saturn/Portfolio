@@ -18,12 +18,12 @@ subtitle = ""
 [[feature]]
   icon_path = "azure.webp"
   name = "Azure"
-  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
+  description = "Azure Fundamentals (AZ-900)"
 
 [[feature]]
   icon_path = "balena.webp"
   name = "Balena"
-  description = "DevOps, App Service, Cognitive Services, Cosmos DB"
+  description = "IoT Edge"
 
 [[feature]]
   icon = "database"
