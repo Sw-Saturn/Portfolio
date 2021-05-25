@@ -22,7 +22,7 @@ bio: 夢は世界平和です
 
 interests:
   - Web Backend
-  - Mobile Application
+  - Microsoft Azure
   - Information Retrieval
 
 education:
@@ -92,16 +92,15 @@ user_groups:
   - Visitors
 ---
 
+## ひとこと
+
+- 某県某所でエンジニアやってます。
+
 ## 趣味
 
 - 旅行: 非日常を体感したり、深夜に出歩くのが好きです。
-- 写真: ストリートスナップ、風景、テーブルフォトなどを撮っています。
-- DJ: Hardstyle、Happy hardcore、UK Hardcore などのジャンルをおうちでミックスしています。
-
-## ひとこと
-
-Flutter でのモバイルアプリケーション開発とか、Golang で Web アプリケーションのバックエンド開発をしています。
-研究では IoT デバイス作製や地域課題解決をしていたりします。
+- 写真: ストリートスナップや風景をメインに撮っています。
+- DJ: Hardstyle、Happy hardcore、UK Hardcore などをミックスしています。
 
 ---
 

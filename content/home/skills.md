@@ -29,7 +29,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "DB"
-  description = "MySQL, MariaDB, MongoDB"
+  description = "MySQL, MongoDB, Transact-SQL"
 
 [[feature]]
   icon = "docker"
@@ -46,13 +46,13 @@ subtitle = ""
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "Yarn, Vue.js, jQuery"
+  description = "Vue.js, jQuery"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "Arch Linux, CentOS, Raspbian"
+  description = "Arch Linux, CentOS"
 
 [[feature]]
   icon = "camera-retro"
