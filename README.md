@@ -3,5 +3,5 @@
 
 - Sw-Saturnのポートフォリオ  
   - Hugoを使用
-  - https://github.com/gcushen/hugo-academic/ をベースにカスタムした
+  - https://github.com/HugoBlox/theme-resume をベースにカスタムした
 - https://sw-saturn.dev/ に公開
