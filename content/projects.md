@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '0rem'
 
 # Page sections
 sections:
@@ -20,4 +20,6 @@ sections:
       view: card
       fill_image: false
       columns: 1
+      spacing:
+        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
 ---

@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "0rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -21,7 +21,7 @@ sections:
         filename: back.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.8em; padding: 0 1.5rem;'
   - block: experience
     id: experience
     content:
@@ -31,20 +31,30 @@ sections:
       date_format: ":date_long"
       # Education or Experience section first?
       is_education_first: false
+      spacing: 
+        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
   - block: skills
     id: skills
     content:
       title: Skills & Hobbies
       username: admin
-      # username: admin
+    design:
+      spacing: 
+        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
   - block: awards
     id: awards
     content:
       title: Awards
       username: admin
+    design:
+      spacing: 
+        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
   - block: languages
     id: languages
     content:
       title: Languages
       username: admin
+    design:
+      spacing: 
+        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
 ---
