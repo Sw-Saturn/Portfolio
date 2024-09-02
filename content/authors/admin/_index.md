@@ -18,8 +18,8 @@ role: SRE / Cloud Infrastructure / Web Backend
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Loco Partners Inc.
-    url: https://loco-partners.com/
+  - name: LiNKX, Inc.
+    url: https://www.linkx.dev/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -83,7 +83,7 @@ work:
     company_url: 'https://loco-partners.com/'
     company_logo: ''
     date_start: 2023-09-01
-    date_end: ''
+    date_end: '2024-08-31'
     summary: |
       Infrastructure:
         # {{< icon name="custom/aws" >}}{{< icon name="custom/mysql" >}}{{< icon name="custom/opensearch" >}}{{< icon name="custom/docker" >}}{{< icon name="custom/terraform" >}}
@@ -97,6 +97,15 @@ work:
         - インフラ環境複製の自動化推進（Terraform）
         - 検索機能・SQL Query のパフォーマンスチューニング（Go / OpenSearch / MySQL 8.0）
         - DMARC report の監視基盤構築（OpenSearch）
+        
+  - position: Software Engineer
+    company_name: LiNX Inc.
+    company_url: 'https://linkx.dev/'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |
+      FinTech solution の開発を行っています。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
