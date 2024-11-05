@@ -41,14 +41,6 @@ sections:
     design:
       spacing: 
         padding: ['4rem', '1.5rem', '4rem', '1.5rem']
-  - block: awards
-    id: awards
-    content:
-      title: Awards
-      username: admin
-    design:
-      spacing: 
-        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
   - block: languages
     id: languages
     content:
