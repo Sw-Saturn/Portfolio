@@ -197,9 +197,9 @@ skills:
 
 languages:
   - name: 日本語
-    percent: 90
+    percent: 80
   - name: English
-    percent: 10
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
