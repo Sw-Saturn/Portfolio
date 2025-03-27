@@ -1,7 +1,6 @@
 # Portfolio
-![GitHub](https://img.shields.io/github/license/Sw-Saturn/Portfolio?style=for-the-badge)
 
-[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
+[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg?style=for-the-badge)](https://github.com/MakeNowJust/sushi-ware)
 
 - Sw-Saturnのポートフォリオ  
   - Hugoを使用
