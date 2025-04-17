@@ -52,7 +52,7 @@ jobs:
 
           # Configure git to use PAT
           REPO_NAME=$(gh repo view --json nameWithOwner -q ".nameWithOwner")
-          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO_NAME}"
+          git config --local url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "https://github.com/"
 
           # Create a new branch name with timestamp
           RELEASE_BRANCH="release/$(date +%Y%m%d-%H%M%S)"
