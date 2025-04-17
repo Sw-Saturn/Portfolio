@@ -52,7 +52,7 @@ jobs:
 
           # Configure git to use PAT
           REPO_NAME=$(gh repo view --json nameWithOwner -q ".nameWithOwner")
-          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO_NAME}.git"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO_NAME}"
 
           # Create a new branch name with timestamp
           RELEASE_BRANCH="release/$(date +%Y%m%d-%H%M%S)"
@@ -70,9 +70,6 @@ jobs:
           # Commit changes
           git commit -m "Deploy: $(date)" || echo "No changes to commit"
 
-          # Check auth status
-          gh auth status
-          
           # Push the branch
           git push origin $RELEASE_BRANCH
           
