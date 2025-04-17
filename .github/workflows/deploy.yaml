@@ -48,7 +48,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Configure git to use PAT
-          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO_NAME}.git"
+          # git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO_NAME}.git"
 
           # Create a new branch name with timestamp
           RELEASE_BRANCH="release/$(date +%Y%m%d-%H%M%S)"
