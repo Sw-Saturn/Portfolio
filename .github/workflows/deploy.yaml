@@ -70,8 +70,6 @@ jobs:
           # Commit changes
           git commit -m "Deploy: $(date)" || echo "No changes to commit"
 
-          git remote -v
-
           # Push the branch
           git push origin $RELEASE_BRANCH
           
