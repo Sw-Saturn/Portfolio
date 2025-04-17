@@ -14,9 +14,17 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate GitHub Token
+        id: generate_token
+        uses: actions/create-github-app-token@v1.9.3
+        with:
+          app_id: ${{ vars.APP_ID }}
+          private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+          
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ steps.generate-token.outputs.token }}
           submodules: 'recursive'
           fetch-depth: 0
           persist-credentials: false
@@ -71,4 +79,4 @@ jobs:
             --head $RELEASE_BRANCH \
             --repo "$REPO_NAME"
         env:
-          GH_TOKEN: ${{ secrets.PAT }}
+          GH_TOKEN: ${{ steps.generate-token.outputs.token }}
