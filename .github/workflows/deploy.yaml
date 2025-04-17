@@ -43,11 +43,12 @@ jobs:
           # Navigate to the public directory (submodule)
           cd public || exit 1
 
+          REPO_NAME=$(git config --get remote.origin.url | sed 's/.*github.com[:/]\(.*\)\.git/\1/')
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Configure git to use PAT
-          git config --local url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "https://github.com/"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO_NAME}.git"
 
           # Create a new branch name with timestamp
           RELEASE_BRANCH="release/$(date +%Y%m%d-%H%M%S)"
@@ -69,7 +70,7 @@ jobs:
           git push origin $RELEASE_BRANCH
           
           # Create a pull request using GitHub CLI
-          REPO_NAME=$(git config --get remote.origin.url | sed 's/.*github.com[:/]\(.*\)\.git/\1/')
+          
           gh pr create \
             --title "Deploy: $(date)" \
             --body "Automated deployment via GitHub Actions" \
