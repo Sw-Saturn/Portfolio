@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: card
+      view: community/card
       fill_image: false
       columns: 1
       spacing:
