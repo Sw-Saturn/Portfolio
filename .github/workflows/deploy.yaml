@@ -17,8 +17,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: 'recursive'
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -37,10 +38,10 @@ jobs:
       - name: Deploy
         run: |
           # Navigate to the public directory (submodule)
-          cd public
+          cd public || exit 1
           
           # Configure git to use PAT
-          git config --local url."https://x-access-token:${PAT}@github.com/".insteadOf "https://github.com/"
+          git config --local url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "https://github.com/"
 
           # Create a new branch name with timestamp
           RELEASE_BRANCH="release/$(date +%Y%m%d-%H%M%S)"
