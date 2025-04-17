@@ -43,7 +43,7 @@ jobs:
           # Navigate to the public directory (submodule)
           cd public || exit 1
 
-          REPO_NAME=$(git config --get remote.origin.url | sed 's/.*github.com[:/]\(.*\)\.git/\1/')
+          REPO_NAME=$(git config --get remote.origin.url | sed -E 's|.*/([^/]+)(\.git)?$|\1|')
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
